@@ -1,0 +1,13 @@
+# Dados reais
+data-lake/**/*
+!data-lake/**/.gitkeep
+
+# Arquivos de execução
+*.parquet
+*.csv
+*.json
+*.log
+
+# Ambientes
+.env
+__pycache__/
