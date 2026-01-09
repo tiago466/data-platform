@@ -1,0 +1,8 @@
+🔹 docs/architecture.md
+👉 Arquitetura estável do projeto
+- Aqui entra:
+- visão macro da plataforma
+- diagrama geral
+- camadas (raw/curated/analytics)
+- runtime
+- fluxo de dados
