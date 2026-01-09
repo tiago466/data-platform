@@ -1,3 +1,7 @@
+<a href="../../README.md" title="Voltar para a página principal">
+🏠 Voltar para Home
+</a>
+
 🔹 docs/decisions.md
 👉 Registro de decisões arquiteturais (ADR)
 Aqui você documenta coisas como:

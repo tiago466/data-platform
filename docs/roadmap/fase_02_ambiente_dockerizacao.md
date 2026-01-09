@@ -1,5 +1,9 @@
 # 📘 FASE 2 — AMBIENTE E DOCKERIZAÇÃO
 
+<a href="../../README.md" title="Voltar para a página principal">
+🏠 Voltar para Home
+</a>
+
 ## ✔ TAREFAS REALIZADAS
 
 - ✅ Criação do `docker-compose.yml` base da plataforma  

@@ -1,5 +1,9 @@
 # FASE 1 — FUNDAMENTOS DE ARQUITETURA DE DADOS
 
+<a href="../../README.md" title="Voltar para a página principal">
+🏠 Voltar para Home
+</a>
+
 ## TAREFAS REALIZADAS
 
 - ✅ Aprendizado dos principais fundamentos de Big Data e Data Engineering
