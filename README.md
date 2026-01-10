@@ -68,11 +68,11 @@ A plataforma é organizada por **domínios de negócio**, permitindo evolução 
 <details>
 <summary>➕ Clique para expandir</summary>
 
-- **[Fluxo Operacional](docs/fluxo_operacional.md)**  
+- **[Fluxo Operacional](docs/dominios/fluxo_operacional.md)**  
   Domínio voltado ao estudo de pipelines analíticos a partir de dados operacionais  
   *(atualmente em standby)*
 
-- **[Mercado Financeiro](docs/mercado_financeiro.md)**  
+- **[Mercado Financeiro](docs/dominios/mercado_financeiro.md)**  
   Domínio ativo, focado em dados históricos do mercado financeiro, engenharia de atributos
   e aplicação de modelos de Machine Learning para séries temporais
 
@@ -164,7 +164,7 @@ Para mais detalhes, consulte a [`documentação da FASE 2`](docs/roadmap/fase_02
 Este projeto é estruturado em fases progressivas de aprendizado e implementação.
 
 - [Fase 1 — Fundamentos de Arquitetura de Dados](docs/roadmap/fase_01_fundamentos_arquitetura.md)
-- [Fase 2 — Ambiente e Dockerização](docs/roadmap/fase_02_dockerizacao.md)
+- [Fase 2 — Ambiente e Dockerização](docs/roadmap/fase_02_ambiente_dockerizacao.md)
 - [Fase 3 — Ingestão RAW(Bronze)](docs/roadmap/fase_03_ingestao_dados_bronze.md)
 - [Fase 4 — Curadoria e Transformação CURATED(Silver)](docs/roadmap/fase_04_curadoria_transformacao_silver.md)
 - [Fase 5 — Analytics e ML(Gold)](docs/roadmap/fase_05_datawarehouse_modelos.md)

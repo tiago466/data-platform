@@ -1,15 +1,18 @@
 version: "3.9"
 services:
-  runtime_python:
-    image: python:3.11-slim
+  runtime-python:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+
     container_name: data-platform-runtime-python
     working_dir: /app
 
     volumes:
       - ../pipelines:/app/pipelines
       - ../data-lake:/app/data-lake
-    
+
     env_file:
       - .env
-    
+      
     tty: true

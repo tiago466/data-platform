@@ -1,4 +1,4 @@
-# FASE 1 — FUNDAMENTOS DE ARQUITETURA DE DADOS
+# 📋 FASE 1 — FUNDAMENTOS DE ARQUITETURA DE DADOS
 
 <a href="../../README.md" title="Voltar para a página principal">
 🏠 Voltar para Home

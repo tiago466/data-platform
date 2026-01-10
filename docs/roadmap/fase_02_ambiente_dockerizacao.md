@@ -1,4 +1,4 @@
-# 📘 FASE 2 — AMBIENTE E DOCKERIZAÇÃO
+# 🐳 FASE 2 — AMBIENTE E DOCKERIZAÇÃO
 
 <a href="../../README.md" title="Voltar para a página principal">
 🏠 Voltar para Home
